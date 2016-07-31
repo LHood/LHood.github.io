@@ -310,4 +310,7 @@ a:after {
 			transition: all .1s ease-in-out;
 }
 
+.img-circle {
+    border-radius: 50%;
+}
 
